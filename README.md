@@ -1,7 +1,7 @@
 # Bicycle brake system reverse engineering
 
 
-
+Redesigned a bicycle brake system to enhance performance and safety for Semester 3 manufacturing module. Gained insights into material identification, application, properties, and industrial engineering techniques in a standard product.
 
 
 <img src="https://github.com/user-attachments/assets/590187d0-e4fe-481b-95d4-3cde63c47644" width="350" alt="Image 1">
